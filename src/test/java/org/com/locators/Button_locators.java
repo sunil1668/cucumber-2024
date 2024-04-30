@@ -18,6 +18,12 @@ public class Button_locators extends Baseclass
  public static By password =By.name("password");
  
 public static By credlogin = By.xpath("//button[text()='LOGIN']");
+/*
+
+
+code pushed to check for git
+
+ */
  
  
  
